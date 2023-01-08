@@ -1,0 +1,154 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.head{
+    background-image: url("../images/banner1.png");
+
+    /* Full height */
+    height: 100vh;
+  
+    /* Center and scale the image nicely */
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+    
+    
+  
+}
+.sec1{ text-align: right;
+    /* margin-top: 200px; */
+    margin-left: 800px;
+    margin-bottom: 230px;
+    margin-right: 200px;
+    padding-top: 200px;
+    
+
+}
+.btn{
+background-color: darkorange;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-top: 12px;
+  font-weight: 300px;
+}
+.menu{
+   
+    display: flex;
+    align-items: center;
+    margin-top: 178px;
+    
+    
+}
+.menu-item{
+    margin-left: 150px;
+    justify-content:space-between;
+    padding-right: 100px;
+    padding-bottom: 10px;
+}
+.sec2-title{
+    margin-bottom: 30px;
+    padding-right: 50px;
+}
+.sec-3{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.plan{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.planing-section{
+    margin-top: 80px;
+}
+.call{
+    margin-left: 100px;
+    margin-top: 200px;
+}
+.call-1{
+    background-image: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%),url("../images/watch.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 50vh;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-bottom: 50px;
+    background-color: #FFFFFF;
+    color: #FFFFFF;
+    font-weight: 500px;
+    font-size: 30px;
+    padding-right: 100px;
+    margin-right: 50px;
+
+}
+.btn-2{
+    margin-top: 50px;
+    background-color:white;
+  border: none;
+  color:darkorange;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-top: 12px;
+}
+.h-1{
+    margin-top: 100px;
+    padding-top: 100px;
+    padding-bottom: 30px;
+
+}
+.future{
+    margin-right: 600px;
+    margin-left: 200px;
+    color: aliceblue;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+.facebook{
+    display: flex;
+    padding-top: 20px;
+    justify-content: space-between;
+}
+.mail{
+    padding-top: 20px;
+}
+.foot{
+    display: flex;
+    background-color: #0d0d0d;
+}
+.Email-2{
+    padding-right: 50px;
+    color: aliceblue;
+    font-weight: 500px;
+    padding-top: 50px;
+}
+.btn-3{
+    margin-top: 50px;
+    background-color: darkorange;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-top: 12px;
+
+}
+.believe{
+    margin-right: 300px;
+    margin-left: 50px;
+}
+
